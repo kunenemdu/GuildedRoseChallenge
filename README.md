@@ -15,7 +15,7 @@ Once you have refactored the code you can add this new feature if you like
      
 
 **Bonus points**
-Beyond the primary goal feel free add any additional functionalty that would showcase your greatest skills. 
+Beyond the primary goal feel free to add any additional functionalty that would showcase your greatest skills. 
 For example if you are great with UI, you could add a shiny front end.
 Databases your thing? - great, add some persistance!
 
